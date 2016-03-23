@@ -2,7 +2,7 @@
  * lab31.cpp
  *
  *  Created on: 24-Feb-2016
- *      Author: 1CR13IS085
+ *      Author: 1CR13IS083
  */
 #include <iostream>
 #include<sstream>
